@@ -13,3 +13,6 @@
    點開之後就可以打開使用者介面開始使用
 
 如果有需要更改 sourcedata請先在 terminal 按 crtl + C 中斷執行,並且替換資料再重新啟動即可
+
+成功啟動後的介面如下:
+<img width="1888" height="868" alt="image" src="https://github.com/user-attachments/assets/73690b18-fbc2-457e-b3c4-4e1cc31af34b" />
