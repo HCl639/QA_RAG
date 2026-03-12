@@ -6,7 +6,7 @@
    下載完後可以執行 `ollama ls` 確認是否有下載成功
 2. 在powershell移動到 (cd <資料夾路徑>) 該資料夾的位置, 或是透過 vscode 開啟
 3. 接著需要安裝套件，可以直接使用<br>
-   `pip install gradio numpy faiss-cpu torch sentence-transformers langchain-core langchain-ollamapython-docx openpyxl python-pptx pillow pdfplumberpaddleocr paddlepaddlelangchain`
+   `pip install gradio numpy faiss-cpu torch sentence-transformers langchain-core langchain-ollama python-docx openpyxl python-pptx pillow pdfplumber paddleocr paddlepaddle langchain`
 5. 再來把回答的 sourcedata(例如操作手冊、導覽手冊等) 放到 data 這個資料夾中
 6. 在 terminal 輸入 `python app.py` 即可執行
 7. 執行後會出現一個 `Running on local URL: http://127.0.0.1:你的端口`<br>
